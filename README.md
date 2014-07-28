@@ -1,4 +1,7 @@
 MultiThreadedHTTPServer
+
+@author Li Cheng
+@email liche@adobe.com
 =======================
 
 A simple multi-threaded web server implemented in Java.
