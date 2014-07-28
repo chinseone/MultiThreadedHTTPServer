@@ -1,5 +1,5 @@
-@author Li Cheng
-@email liche@adobe.com
+Li Cheng
+liche@adobe.com
 
 MultiThreadedHTTPServer
 =======================
